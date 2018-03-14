@@ -11,7 +11,7 @@ Besides the removal of some branding and configuration data, it is more or less 
 
 We are quite open to the idea of evolving this into something more generally useful. If you would like to contribute to this effort, talk to us in [Discord](https://discord.gg/KUFmKXN).
 
-Please note that this project might have legacy code that was planned to be refactored and as so, we kindly ask you to not judge the programming skills of the author(s) based on this single codebase.
+Please note that this project might have legacy code that was planned to be refactored and as so, we kindly ask you not to judge the programming skills of the author(s) based on this single codebase.
 
 ## Requirements
 
