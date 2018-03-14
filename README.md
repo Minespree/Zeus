@@ -5,7 +5,7 @@
 ![Documentation](https://img.shields.io/badge/docs-missing-red.svg)
 
 
-This is the code that powered the Zeus Discord bot of the former Minespree Network. This bot was in charge of delivering PlayPen emergency notifications to the Network developers in case of emergency.
+This is the code that powered the Zeus Discord bot of the former Minespree Network. This bot was in charge of delivering PlayPen notifications to the Network developers in case of emergency.
 
 Besides the removal of some branding and configuration data, it is more or less unmodified. It is probably not _directly_ useful to third parties in its current state, but it may be help in understanding how the Minespree network operated.
 
